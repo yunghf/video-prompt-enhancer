@@ -2,7 +2,6 @@
 
 一份符合 [Agent Skills 开放标准](https://agentskills.io/specification) 的可移植技能包：把一句创意增强为可直接投喂目标模型的结构化视频提示词，并交付 `prompt.txt` + `meta.md`。
 
-- **版本**：2.1.1（内容源自 WorkBuddy 技能市场的「视频提示词增强器」，本包做了标准化改造）
 - **支持模型**：MiniMax H3 / Seedance 1.0 / Wan 3.0 / 可灵 3.0 / LibTV
 - **依赖**：Python 3.8+（仅标准库）；无网络访问、无第三方包、无宿主专有 API
 
