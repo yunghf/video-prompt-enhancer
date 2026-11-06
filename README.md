@@ -99,8 +99,6 @@ python3 "$SKILL_DIR/scripts/validate_video_prompt.py" "$SKILL_DIR/examples/libtv
 
 本仓库**公开可见，但未授予开源许可**。按 GitHub 默认规则，未附 `LICENSE` 即保留所有权利：他人可以浏览与 fork，但复制、修改、再分发或商用需取得版权人许可。
 
-内容源自 WorkBuddy 技能市场的第三方技能，发布者未必持有完整版权。如需正式开源（补充 MIT / Apache-2.0 等），请先确认授权归属，再添加 `LICENSE` 文件并更新本节。
-
 ## 兼容性事实
 
 - `scripts/validate_video_prompt.py` 仅使用 `argparse` / `re` / `sys`，Python 3.8+ 可直接运行，Windows / macOS / Linux 通用，UTF-8 读写。
